@@ -1,0 +1,16 @@
+C:\Users\JMGadia\Desktop\vbCalculator\bin\Debug\net8.0-windows\vbCalculator.exe
+C:\Users\JMGadia\Desktop\vbCalculator\bin\Debug\net8.0-windows\vbCalculator.deps.json
+C:\Users\JMGadia\Desktop\vbCalculator\bin\Debug\net8.0-windows\vbCalculator.runtimeconfig.json
+C:\Users\JMGadia\Desktop\vbCalculator\bin\Debug\net8.0-windows\vbCalculator.dll
+C:\Users\JMGadia\Desktop\vbCalculator\bin\Debug\net8.0-windows\vbCalculator.pdb
+C:\Users\JMGadia\Desktop\vbCalculator\obj\Debug\net8.0-windows\vbCalculator.Form1.resources
+C:\Users\JMGadia\Desktop\vbCalculator\obj\Debug\net8.0-windows\vbCalculator.vbproj.GenerateResource.cache
+C:\Users\JMGadia\Desktop\vbCalculator\obj\Debug\net8.0-windows\vbCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JMGadia\Desktop\vbCalculator\obj\Debug\net8.0-windows\vbCalculator.AssemblyInfoInputs.cache
+C:\Users\JMGadia\Desktop\vbCalculator\obj\Debug\net8.0-windows\vbCalculator.AssemblyInfo.vb
+C:\Users\JMGadia\Desktop\vbCalculator\obj\Debug\net8.0-windows\vbCalculator.vbproj.CoreCompileInputs.cache
+C:\Users\JMGadia\Desktop\vbCalculator\obj\Debug\net8.0-windows\vbCalculator.dll
+C:\Users\JMGadia\Desktop\vbCalculator\obj\Debug\net8.0-windows\refint\vbCalculator.dll
+C:\Users\JMGadia\Desktop\vbCalculator\obj\Debug\net8.0-windows\vbCalculator.pdb
+C:\Users\JMGadia\Desktop\vbCalculator\obj\Debug\net8.0-windows\vbCalculator.genruntimeconfig.cache
+C:\Users\JMGadia\Desktop\vbCalculator\obj\Debug\net8.0-windows\ref\vbCalculator.dll
